@@ -8,4 +8,4 @@ Java - Adaptación de librerías de BouncyCastle 15to17-v150. Fuente original de
  * The Legion Of The Bouncy Castle (http://www.bouncycastle.org)
 
 Adaptaciones realizadas por:
- * Ing. Felix D. Lopez M. - flex.developments en gmail
+ * Ing. Félix D. López M. - flex.developments en gmail
